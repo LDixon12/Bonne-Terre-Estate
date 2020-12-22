@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "hotel_distance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "building": "roof;hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 6.8025175032051557, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.3247, 38.9518 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 3.6819648104322438, "mile_within": 5 }, "geometry": { "type": "Point", "coordinates": [ -92.2925, 38.914 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "The Tiger Hotel", "HubName": "Bonne Terre Estate", "HubDist": 6.8690337517028457, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.3289, 38.9509 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 6.7206049777008028, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.2856, 38.9624 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 6.6932872946402577, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.284, 38.9623 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 6.7278750640782174, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.2939, 38.9609 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 6.6836656307944109, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.2937, 38.9603 ] } },
+{ "type": "Feature", "properties": { "building": "hotel", "name": "", "HubName": "Bonne Terre Estate", "HubDist": 8.1973722940806901, "mile_within": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.3329, 38.9714 ] } }
+]
+}
